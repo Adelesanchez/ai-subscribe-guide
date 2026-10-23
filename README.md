@@ -4,9 +4,6 @@
 
 **配套视频教程：**
 
-- [用 GOPAY 绑卡订阅菲律宾半价 GPT Plus 会员教程（Bilibili）](https://www.bilibili.com/video/BV1e9nH6MEcv)
-- [用 GOPAY 卡绑卡订阅 Claude Pro 会员教程视频（Bilibili）](https://www.bilibili.com/video/BV1jjpb6eEKY)
-
 ---
 
 ## 一、办理 GoPass 美国虚拟卡
